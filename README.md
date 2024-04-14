@@ -1,5 +1,5 @@
 ### HOLA!!! 👋
-![Banner](allanrogerfl_banner.git)
+![Banner](https://raw.githubusercontent.com/allanrogerfl/allanrogerfl/main/allanrogerfl_banner.gif)
 <!--
 **allanrogerfl/allanrogerfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
